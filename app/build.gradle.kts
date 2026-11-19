@@ -45,9 +45,4 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.espresso.core)
     androidTestImplementation(libs.ext.junit)
-
-    // Implementierung - Einfügen der Bibliotheken
-    implementation("androidx.navigation:navigation-fragment:2.7.7")
-    implementation("androidx.navigation:navigation-ui:2.7.7")
-    // implementation("com.google.android.material:material:1.11.0")
 }
